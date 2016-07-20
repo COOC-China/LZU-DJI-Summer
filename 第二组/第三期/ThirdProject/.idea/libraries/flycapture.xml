@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="flycapture">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/flycapture.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/artoolkitplus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javacv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/flandmark.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javacpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libfreenect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ffmpeg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libdc1394.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/opencv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/videoinput.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/samples" />
+    </SOURCES>
+  </library>
+</component>
