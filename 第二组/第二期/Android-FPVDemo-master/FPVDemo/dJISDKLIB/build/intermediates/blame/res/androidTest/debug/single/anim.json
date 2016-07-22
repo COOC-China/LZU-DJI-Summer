@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_in.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_out.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_out.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_in.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_in.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_other.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_other.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_in.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_in.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_out.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_out.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter_back.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter_back.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_in.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter_back.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter_back.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit_back.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit_back.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_out.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_out.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_in.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_out.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_out.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_out.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_out.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_out.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_out.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_other.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_other.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_in.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_in.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_out.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_out.xml"
+    },
+    {
+        "merged": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_out.xml",
+        "source": "F:\\BaiduYunDownload\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_out.xml"
+    },
+    {
+        "merged": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit_back.xml",
+        "source": "F:\\Users\\zlinoliver\\Documents\\DJI-SDK-Github\\Android-FPVDemo\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit_back.xml"
+    }
+]
