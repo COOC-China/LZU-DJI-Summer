@@ -5,4 +5,4 @@
 
 学员航拍视频
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=l0315m1n4ne&tiny=0&auto=0" allowfullscreen></iframe>
+<embed src="https://static.video.qq.com/TPout.swf?vid=l0315m1n4ne&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
